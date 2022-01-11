@@ -1,0 +1,29 @@
+div {
+    height: 370px;
+    width: 410px;
+}
+
+h2 {
+    text-decoration: overline; 
+    font-family: 'Pushster', cursive;
+}
+
+h3 {
+    font-family: 'Pushster', cursive;
+}
+
+
+h5 {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Oswald', sans-serif;
+   
+}
+/* 
+body {
+    color: blue;
+} */
+
+h4 {
+    font-family: 'Oswald', sans-serif;
+    color: red;
+}
